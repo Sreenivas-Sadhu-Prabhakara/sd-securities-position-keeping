@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-securities-position-keeping
+description: "BIAN Service Domain: Securities Position Keeping (Maintain pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - maintain
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Securities"
+  bian/asset-type: "Securities Position"
+  bian/control-record: "Securities Position Maintenance Agreement"
